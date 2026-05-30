@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "1056469126",
-  "updated_at": "2026-04-23T15:52:37.156455",
+  "updated_at": "2026-05-30T00:02:24+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -86,6 +86,12 @@
       "file": "共生体-彩.bdi",
       "thumb": "共生体-彩.bdi_py_26_light_thumb.png",
       "full": "共生体-彩.bdi_py_26_light.png"
+    },
+    {
+      "name": "泣 I ☆",
+      "file": "泪似海-融.bdi",
+      "thumb": "泪似海-融.bdi_py_26_light_thumb.png",
+      "full": "泪似海-融.bdi_py_26_light_thumb.png"
     }
   ]
 }
