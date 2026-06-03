@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "1097571683",
-  "updated_at": "2026-06-03T19:06:57+00:00",
+  "updated_at": "2026-06-03T19:07:43+00:00",
   "skins": [
     {
       "name": "泣 I",
@@ -11,15 +11,15 @@
     },
     {
       "name": "泣制品I PINKBEAR",
-      "file": "cry-猫的独奏彩.bdi",
-      "thumb": "cry-猫的独奏彩.bdi_py_26_light_thumb.png",
-      "full": "cry-猫的独奏彩.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "泣制品I PINKBEAR",
       "file": "cry-猫的独奏融.bdi",
       "thumb": "cry-猫的独奏融.bdi_py_26_light_thumb.png",
       "full": "cry-猫的独奏融.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "泣制品I PINKBEAR",
+      "file": "cry-猫的独奏彩.bdi",
+      "thumb": "cry-猫的独奏彩.bdi_py_26_light_thumb.png",
+      "full": "cry-猫的独奏彩.bdi_py_26_light_thumb.png"
     }
   ]
 }
