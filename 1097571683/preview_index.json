@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "1097571683",
-  "updated_at": "2026-06-04T01:25:13+00:00",
+  "updated_at": "2026-06-04T01:57:52+00:00",
   "skins": [
     {
       "name": "泣 I",
@@ -26,6 +26,12 @@
       "file": "cry-豹好意思彩.bdi",
       "thumb": "cry-豹好意思彩.bdi_py_26_light_thumb.png",
       "full": "cry-豹好意思彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "泣 I",
+      "file": "cry-Aanglecat彩.bdi",
+      "thumb": "cry-Aanglecat彩.bdi_py_26_light_thumb.png",
+      "full": "cry-Aanglecat彩.bdi_py_26_light_thumb.png"
     }
   ]
 }
