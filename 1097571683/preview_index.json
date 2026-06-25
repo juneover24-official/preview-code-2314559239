@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "1097571683",
-  "updated_at": "2026-06-25T01:35:13+00:00",
+  "updated_at": "2026-06-25T01:35:35+00:00",
   "skins": [
     {
       "name": "泣 I",
@@ -40,12 +40,6 @@
       "full": "cry-豹好意思融.bdi_py_26_light_thumb.png"
     },
     {
-      "name": "乐妍底包",
-      "file": "cry-兔慢蔓无背景.bdi",
-      "thumb": "cry-兔慢蔓无背景.bdi_py_26_light_thumb.png",
-      "full": "cry-兔慢蔓无背景.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "☆甘い泪",
       "file": "cry-兔慢蔓彩底.bdi",
       "thumb": "cry-兔慢蔓彩底.bdi_py_26_light_thumb.png",
@@ -56,6 +50,12 @@
       "file": "cry-兔慢蔓融底.bdi",
       "thumb": "cry-兔慢蔓融底.bdi_py_26_light_thumb.png",
       "full": "cry-兔慢蔓融底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "cry-兔慢蔓无背景.bdi",
+      "thumb": "cry-兔慢蔓无背景.bdi_py_26_light_thumb.png",
+      "full": "cry-兔慢蔓无背景.bdi_py_26_light_thumb.png"
     }
   ]
 }
