@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "1097571683",
-  "updated_at": "2026-06-30T00:33:50+00:00",
+  "updated_at": "2026-06-30T00:34:02+00:00",
   "skins": [
     {
       "name": "泣 I",
@@ -62,6 +62,12 @@
       "file": "cry-电子宠物彩底.bdi",
       "thumb": "cry-电子宠物彩底.bdi_py_26_light_thumb.png",
       "full": "cry-电子宠物彩底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "I©泣",
+      "file": "cry-电子宠物融底.bdi",
+      "thumb": "cry-电子宠物融底.bdi_py_26_light_thumb.png",
+      "full": "cry-电子宠物融底.bdi_py_26_light_thumb.png"
     }
   ]
 }
