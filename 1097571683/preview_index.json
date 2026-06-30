@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "1097571683",
-  "updated_at": "2026-06-30T08:36:16+00:00",
+  "updated_at": "2026-06-30T08:36:53+00:00",
   "skins": [
     {
       "name": "泣 I",
@@ -58,12 +58,6 @@
       "full": "cry-兔慢蔓无背景.bdi_py_26_light_thumb.png"
     },
     {
-      "name": "I©泣",
-      "file": "cry-电子宠物彩底.bdi",
-      "thumb": "cry-电子宠物彩底.bdi_py_26_light_thumb.png",
-      "full": "cry-电子宠物彩底.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "乐妍底包",
       "file": "cry-电子宠物ios27.bdi",
       "thumb": "cry-电子宠物ios27.bdi_py_26_light_thumb.png",
@@ -74,6 +68,12 @@
       "file": "cry-电子宠物融底.bdi",
       "thumb": "cry-电子宠物融底.bdi_py_26_light_thumb.png",
       "full": "cry-电子宠物融底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "I©泣",
+      "file": "cry-电子宠物彩底.bdi",
+      "thumb": "cry-电子宠物彩底.bdi_py_26_light_thumb.png",
+      "full": "cry-电子宠物彩底.bdi_py_26_light_thumb.png"
     }
   ]
 }
