@@ -1,13 +1,19 @@
 {
   "qq_number": "2314559239",
   "group_number": "369761495",
+  "updated_at": "2026-07-15T21:57:56+00:00",
   "skins": [
     {
       "name": "★泣I",
       "file": "泣-过期档案彩.bdi",
       "thumb": "泣-过期档案彩.bdi_py_26_light_thumb.png",
       "full": "泣-过期档案彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "★泣I",
+      "file": "泣-过期档案融.bdi",
+      "thumb": "泣-过期档案融.bdi_py_26_light_thumb.png",
+      "full": "泣-过期档案融.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-07-15T21:55:12+00:00"
+  ]
 }
