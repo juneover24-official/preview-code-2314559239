@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "369761495",
-  "updated_at": "2026-07-19T20:30:59+00:00",
+  "updated_at": "2026-07-19T20:34:26+00:00",
   "skins": [
     {
       "name": "★泣I",
@@ -22,16 +22,16 @@
       "full": "泣-过期档案无背景.bdi_py_26_light_thumb.png"
     },
     {
-      "name": "乐妍底包",
-      "file": "泣-奶油不輕鬆无背景.bdi",
-      "thumb": "泣-奶油不輕鬆无背景.bdi_py_26_light_thumb.png",
-      "full": "泣-奶油不輕鬆无背景.bdi_py_26_light_thumb.png"
-    },
-    {
       "name": "泣 I 我在熊界有点人脉",
       "file": "泣-奶油不輕鬆融合.bdi",
       "thumb": "泣-奶油不輕鬆融合.bdi_py_26_light_thumb.png",
       "full": "泣-奶油不輕鬆融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "泣-奶油不輕鬆无背景.bdi",
+      "thumb": "泣-奶油不輕鬆无背景.bdi_py_26_light_thumb.png",
+      "full": "泣-奶油不輕鬆无背景.bdi_py_26_light_thumb.png"
     }
   ]
 }
