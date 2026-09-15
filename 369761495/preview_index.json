@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "369761495",
-  "updated_at": "2026-07-19T20:40:17+00:00",
+  "updated_at": "2026-09-15T12:03:48+00:00",
   "skins": [
     {
       "name": "★泣I",
@@ -38,6 +38,13 @@
       "file": "泣-奶油不輕鬆彩底.bdi",
       "thumb": "泣-奶油不輕鬆彩底.bdi_py_26_light_thumb.png",
       "full": "泣-奶油不輕鬆彩底.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "泣-简约小波点无背景.bdi",
+      "thumb": "泣-简约小波点无背景.bdi_py_26_light_thumb.png",
+      "full": "泣-简约小波点无背景.bdi_py_26_light_thumb.png",
+      "file_id": "55f692f70829e4195991004f5ab60ef1"
     }
   ]
 }
