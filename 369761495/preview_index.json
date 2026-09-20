@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "369761495",
-  "updated_at": "2026-09-20T01:32:04+00:00",
+  "updated_at": "2026-09-20T01:32:39+00:00",
   "skins": [
     {
       "name": "★泣I",
@@ -59,6 +59,13 @@
       "thumb": "泣-BLACKAY融底.bdi_py_26_light_thumb.png",
       "full": "泣-BLACKAY融底.bdi_py_26_light_thumb.png",
       "file_id": "a5dd8fd6785fc795e65a5e28c8a614d8"
+    },
+    {
+      "name": "泣的",
+      "file": "泣-BLACKAY彩底.bdi",
+      "thumb": "泣-BLACKAY彩底.bdi_py_26_light_thumb.png",
+      "full": "泣-BLACKAY彩底.bdi_py_26_light_thumb.png",
+      "file_id": "759b017220117b023fadea45b82b1d28"
     }
   ]
 }
