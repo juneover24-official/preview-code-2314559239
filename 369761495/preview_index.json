@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "369761495",
-  "updated_at": "2026-09-30T14:00:11+00:00",
+  "updated_at": "2026-09-30T14:00:19+00:00",
   "skins": [
     {
       "name": "★泣I",
@@ -76,13 +76,6 @@
     },
     {
       "name": "☆甘い泪",
-      "file": "净心莲-彩底.bdi",
-      "thumb": "净心莲-彩底.bdi_py_26_light_thumb.png",
-      "full": "净心莲-彩底.bdi_py_26_light_thumb.png",
-      "file_id": "5f02b42a56faa3788085fe8208d12d53"
-    },
-    {
-      "name": "☆甘い泪",
       "file": "净心莲-融底.bdi",
       "thumb": "净心莲-融底.bdi_py_26_light_thumb.png",
       "full": "净心莲-融底.bdi_py_26_light_thumb.png",
@@ -94,6 +87,13 @@
       "thumb": "净心莲-无背景.bdi_py_26_light_thumb.png",
       "full": "净心莲-无背景.bdi_py_26_light_thumb.png",
       "file_id": "be08116e74cec57d7cd10610b54b9fe2"
+    },
+    {
+      "name": "☆甘い泪",
+      "file": "净心莲-彩底.bdi",
+      "thumb": "净心莲-彩底.bdi_py_26_light_thumb.png",
+      "full": "净心莲-彩底.bdi_py_26_light_thumb.png",
+      "file_id": "5f02b42a56faa3788085fe8208d12d53"
     }
   ]
 }
