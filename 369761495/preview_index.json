@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "369761495",
-  "updated_at": "2026-10-01T15:39:16+00:00",
+  "updated_at": "2026-10-01T15:39:53+00:00",
   "skins": [
     {
       "name": "★泣I",
@@ -121,6 +121,13 @@
       "thumb": "泣-伤心治愈时无背景.bdi_py_26_light_thumb.png",
       "full": "泣-伤心治愈时无背景.bdi_py_26_light_thumb.png",
       "file_id": "e4ba5e8d4953458e18aef42ce9bdcaf8"
+    },
+    {
+      "name": "泣 I",
+      "file": "泣-伤心治愈时融.bdi",
+      "thumb": "泣-伤心治愈时融.bdi_py_26_light_thumb.png",
+      "full": "泣-伤心治愈时融.bdi_py_26_light_thumb.png",
+      "file_id": "d946f869be99d0e8ea6d5f32c1c674e4"
     }
   ]
 }
