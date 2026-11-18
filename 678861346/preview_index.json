@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "678861346",
-  "updated_at": "2026-11-18T09:36:04+00:00",
+  "updated_at": "2026-11-18T09:36:10+00:00",
   "skins": [
     {
       "name": "☆甘い泪",
@@ -26,6 +26,12 @@
       "file": "我只是一只小熊猫-彩.bdi",
       "thumb": "我只是一只小熊猫-彩.bdi_py_26_light_thumb.png",
       "full": "我只是一只小熊猫-彩.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "我只是一只熊猫-无背景.bdi",
+      "thumb": "我只是一只熊猫-无背景.bdi_py_26_light_thumb.png",
+      "full": "我只是一只熊猫-无背景.bdi_py_26_light_thumb.png"
     }
   ]
 }
