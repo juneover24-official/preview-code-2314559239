@@ -1,7 +1,7 @@
 {
   "qq_number": "2314559239",
   "group_number": "678861346",
-  "updated_at": "2026-11-01T11:30:43+00:00",
+  "updated_at": "2026-11-18T09:36:04+00:00",
   "skins": [
     {
       "name": "☆甘い泪",
@@ -20,6 +20,12 @@
       "file": "失格录无背景.bdi",
       "thumb": "失格录无背景.bdi_py_26_light_thumb.png",
       "full": "失格录无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "泣 I 线性忧伤",
+      "file": "我只是一只小熊猫-彩.bdi",
+      "thumb": "我只是一只小熊猫-彩.bdi_py_26_light_thumb.png",
+      "full": "我只是一只小熊猫-彩.bdi_py_26_light_thumb.png"
     }
   ]
 }
